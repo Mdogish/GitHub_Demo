@@ -1,0 +1,12 @@
+body {
+    font-family: "Lato", sans-serif
+}
+
+.mySlides {
+    display:none;
+}
+
+#yes a:hover { 
+    color: rgb(30, 230, 236);
+     
+     }
